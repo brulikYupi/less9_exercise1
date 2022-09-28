@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<pancake>
+   <category>
+      <id>100</id>
+      <name lang="en">pancake</name>
+      <description>all pancakes</description>
+      <img>http://blini.com/src/image.jpg</img>
+      <parentcategoryid></parentcategoryid>
+   </category>
+   
+   <category>
+      <id>101</id>
+      <name lang="en">meet pancake</name>
+      <description>pancake with meat</description>
+      <img>http://blini.com/src/image1.jpg</img>
+      <parentcategoryid>100</parentcategoryid>
+   </category>
+   
+   <category>
+      <id>102</id>
+      <name lang="en">pancake sweet</name>
+      <description>yummy</description>
+      <img>http://blini.com/src/image2.jpg</img>
+      <parentcategoryid>100</parentcategoryid>
+   </category>
+   
+   <category>
+      <id>103</id>
+      <name lang="en">vegan pancake</name>
+      <description>vegan pancake with vegetable</description>
+      <img>http://blini.com/src/image3.jpg</img>
+      <parentcategoryid>100</parentcategoryid>
+   </category>
+</pancake>

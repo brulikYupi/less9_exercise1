@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<food>
+   <product>
+      <name lang="ru">Блин Бургер</name>
+      <description> Сочная котлета гриль с ломтиками расплавленного сыра моцарелла/description>
+      <img>
+         <item1>http://blini.com/src/image4.jpg</item1>
+         <item2>http://blini.com/src/image5.jpg</item2>
+         <item3>http://blini.com/src/image6.jpg</item3>
+         <item4>http://blini.com/src/image7.jpg</item4>
+      </img>
+      <category>101</category>
+      <price currency="Russian Ruble">1000000.00</price>
+   </product>
+   
+   <product>
+      <name lang="ru">Блин со сгущёнкой</name>
+      <description>Простой и по-домашнему вкусный блин со сгущённым молоком</description>
+      <img>
+         <item5>http://blini.com/src/image8.jpg</item5>
+         <item6>http://blini.com/src/image9.jpg</item6>
+         <item7>http://blini.com/src/image10.jpg</item7>
+      </img>
+      <category>101</category>
+      <price currency="Russian Ruble">79</price>
+   </product>
+   
+   <category>
+      <name lang="ru">Блин с капустой</name>
+      <description>Просто.Вкусно.По-домашнему.</description>
+      <img>
+         <item8>http://blini.com/src/image11.jpg</item8>
+         <item9>http://blini.com/src/image12.jpg</item9>
+         <item10>http://blini.com/src/image13.jpg</item10>
+      </img>
+      <category>103</category>
+      <price currency="Russian Ruble">85</price>
+   </category>
+
+</food>
